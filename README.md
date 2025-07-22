@@ -63,7 +63,7 @@ A comprehensive, professional weather application built with Next.js, TypeScript
    ```
 
 3. **Set up environment variables**
-   Create a `.env.local` file in the root directory:
+   Create a `.env.development` file in the root directory:
 
    ```env
    WEATHERSTACK_API_KEY=your_api_key_here
